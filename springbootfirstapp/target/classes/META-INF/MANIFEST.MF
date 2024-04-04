@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 11.0.16
+Implementation-Title: springbootfirstapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.scs
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/springbootfirs
+ tapp/
+Created-By: Maven Integration for Eclipse
+
